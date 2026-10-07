@@ -1,0 +1,6 @@
+V2.1 - modifications demandées
+- Classement : piscines ouvertes d'abord, puis distance croissante.
+- Recommandation : première piscine ouverte du classement, donc la plus proche parmi les ouvertes.
+- Heure : libellé simple « Heure ».
+- Heure : saisie 24 h HH:MM (ex. 18:30), plus liste toutes les 15 minutes.
+- Cache PWA : v3 pour forcer la mise à jour après déploiement.

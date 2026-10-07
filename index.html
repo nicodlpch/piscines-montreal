@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0d4863">
+  <meta name="description" content="Trouver une piscine publique gratuite de Montréal selon le jour, l'heure et le point de départ.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon-192.png">
+  <link rel="apple-touch-icon" href="./icon-192.png">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="./styles.css">
+  <title>Piscines Montréal</title>
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">MONTRÉAL · PISCINES PUBLIQUES GRATUITES</p>
+      <h1>Où nager ?</h1>
+      <p class="subtitle">Trouve une piscine gratuite selon ton horaire et ton point de départ.</p>
+    </div>
+    <button id="installBtn" class="ghost hidden" type="button">Installer</button>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Recherche">
+      <label>Jour
+        <select id="daySelect"></select>
+      </label>
+      <div class="time-field">
+        <label for="timeInput">Heure</label>
+        <div class="time-pair">
+          <input id="timeInput" type="text" inputmode="numeric" maxlength="5" placeholder="HH:MM" autocomplete="off" aria-label="Heure au format 24 heures, par exemple 18:30">
+          <select id="timeQuickSelect" aria-label="Heures par pas de 15 minutes"></select>
+        </div>
+      </div>
+      <label class="switchline">
+        <input id="lanePriority" type="checkbox" checked>
+        <span>Priorité aux couloirs de nage</span>
+      </label>
+      <button id="locateBtn" class="primary" type="button">📍 Utiliser ma position</button>
+      <form id="addressForm" class="address-form">
+        <label for="addressInput">Ou entrer une adresse</label>
+        <div class="address-pair">
+          <input id="addressInput" type="search" autocomplete="street-address" placeholder="Ex. 1200 rue Rachel Est">
+          <button id="addressBtn" class="secondary" type="submit">Utiliser</button>
+        </div>
+      </form>
+      <p id="locationStatus" class="status" aria-live="polite">Choisis ta position ou entre une adresse pour classer les piscines par proximité.</p>
+    </section>
+
+    <section id="recommendation" class="recommendation" aria-live="polite"></section>
+
+    <section class="map-card">
+      <div class="map-heading">
+        <div><h2>Carte</h2><p id="mapSummary">Chargement…</p></div>
+        <div class="legend"><span><i class="dot green"></i>Disponible</span><span><i class="dot gray"></i>Indisponible</span><span><i class="dot blue"></i>Recommandée</span></div>
+      </div>
+      <div id="map" role="region" aria-label="Carte des piscines"></div>
+      <div id="mapFallback" class="map-fallback hidden">La carte nécessite une connexion internet. La liste ci-dessous reste utilisable.</div>
+    </section>
+
+    <section class="list-card">
+      <div class="list-heading">
+        <div><h2>Piscines</h2><p class="list-note" id="listNote">Les piscines ouvertes sont affichées en priorité, puis classées par distance.</p></div>
+        <span id="countBadge" class="badge"></span>
+      </div>
+      <div id="poolList" class="pool-list"></div>
+      <div class="pagination" aria-label="Navigation dans la liste">
+        <button id="prevPage" class="secondary" type="button">← Précédent</button>
+        <span id="pageInfo" aria-live="polite"></span>
+        <button id="nextPage" class="secondary" type="button">Suivant →</button>
+      </div>
+    </section>
+
+    <section class="about">
+      <p><strong>Données :</strong> répertoire Ville de Montréal + horaires de baignade libre publiés. Les piscines extérieures hors saison restent visibles dans le répertoire.</p>
+      <p><strong>Tarification :</strong> les installations à entrée payante connue ont été exclues; certaines installations gratuites peuvent demander une carte ou une preuve de résidence.</p>
+      <p id="updated"></p>
+    </section>
+  </main>
+
+  <dialog id="iosHelp">
+    <form method="dialog">
+      <h2>Installer sur iPhone</h2>
+      <p>Dans Safari : <strong>Partager</strong> → <strong>Ajouter à l’écran d’accueil</strong> → <strong>Ajouter</strong>.</p>
+      <button class="primary" value="close">OK</button>
+    </form>
+  </dialog>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="./app.js" defer></script>
+</body>
+</html>
