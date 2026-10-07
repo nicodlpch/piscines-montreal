@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#0d4863">
+  <meta name="description" content="Trouver une piscine publique ouverte près du Plateau-Mont-Royal selon le jour et l'heure.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icon-192.png">
+  <link rel="apple-touch-icon" href="./icon-192.png">
+  <link rel="preconnect" href="https://unpkg.com">
+  <link rel="preconnect" href="https://tile.openstreetmap.org">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="./styles.css">
+  <title>Piscines Montréal</title>
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <p class="eyebrow">MONTRÉAL · PLATEAU ET ALENTOURS</p>
+      <h1>Où nager ?</h1>
+      <p class="subtitle">Piscines publiques disponibles selon ton horaire.</p>
+    </div>
+    <button id="installBtn" class="ghost hidden" type="button">Installer</button>
+  </header>
+
+  <main>
+    <section class="controls" aria-label="Recherche">
+      <label>Jour
+        <select id="daySelect"></select>
+      </label>
+      <label>Heure
+        <input id="timeInput" type="time" step="300">
+      </label>
+      <label class="switchline">
+        <input id="lanePriority" type="checkbox" checked>
+        <span>Priorité aux couloirs de nage</span>
+      </label>
+      <button id="locateBtn" class="primary" type="button">📍 Utiliser ma position</button>
+      <button id="metroBtn" class="secondary" type="button">Métro Mont-Royal</button>
+      <p id="locationStatus" class="status" aria-live="polite"></p>
+    </section>
+
+    <section id="recommendation" class="recommendation" aria-live="polite"></section>
+
+    <section class="map-card">
+      <div class="map-heading">
+        <div><h2>Carte</h2><p id="mapSummary">Chargement…</p></div>
+        <div class="legend"><span><i class="dot green"></i>Disponible</span><span><i class="dot gray"></i>Indisponible</span><span><i class="dot orange"></i>Recommandée</span></div>
+      </div>
+      <div id="map" role="region" aria-label="Carte des piscines"></div>
+      <div id="mapFallback" class="map-fallback hidden">La carte nécessite une connexion internet. La liste ci-dessous reste utilisable.</div>
+    </section>
+
+    <section class="list-card">
+      <div class="list-heading"><h2>Piscines</h2><span id="countBadge" class="badge"></span></div>
+      <div id="poolList" class="pool-list"></div>
+    </section>
+
+    <section class="about">
+      <p><strong>Données :</strong> horaires municipaux collectés pour l’automne 2026. Vérifie la source officielle avant un déplacement important.</p>
+      <p id="updated"></p>
+    </section>
+  </main>
+
+  <dialog id="iosHelp">
+    <form method="dialog">
+      <h2>Installer sur iPhone</h2>
+      <p>Dans Safari : <strong>Partager</strong> → <strong>Ajouter à l’écran d’accueil</strong> → <strong>Ajouter</strong>.</p>
+      <button class="primary" value="close">OK</button>
+    </form>
+  </dialog>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="./app.js" defer></script>
+</body>
+</html>
