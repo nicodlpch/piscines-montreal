@@ -1,0 +1,4047 @@
+{
+  "updated": "2026-10-07",
+  "scope": "Piscines publiques à baignade libre gratuite ou gratuite pour les Montréalais, recensées à partir du répertoire de la Ville de Montréal. Les installations à tarification connue ont été exclues.",
+  "mapCenter": {
+    "lat": 45.536,
+    "lon": -73.612
+  },
+  "officialIndoorDirectory": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PISI",
+  "officialOutdoorDirectory": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+  "pools": [
+    {
+      "name": "Bain Morgan",
+      "arrondissement": "Mercier–Hochelaga-Maisonneuve",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "12 sept. 2026 au 18 juin 2027",
+      "address": "1875, avenue Morgan, Montréal, QC H1V 2R1",
+      "source": "https://montreal.ca/lieux/bain-morgan",
+      "comment": "Accès gratuit. 2 couloirs pendant les périodes adultes; au moins 1 couloir pendant les périodes pour toutes et tous. La fiche publie cet horaire pour l’automne 2026 malgré un ancien bandeau de fermeture estivale.",
+      "lat": 45.55346,
+      "lon": -73.53824,
+      "slots": [
+        {
+          "category": "Adultes",
+          "day": "Lundi",
+          "start": "14:00",
+          "end": "15:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "16:00",
+          "end": "18:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Au moins 1 couloir de nage disponible.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "09:00",
+          "end": "10:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Au moins 1 couloir de nage disponible.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mardi",
+          "start": "11:00",
+          "end": "11:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "14:00",
+          "end": "15:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "16:00",
+          "end": "18:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Au moins 1 couloir de nage disponible.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "09:00",
+          "end": "10:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Au moins 1 couloir de nage disponible.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Adultes",
+          "day": "Jeudi",
+          "start": "11:00",
+          "end": "11:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Adultes",
+          "day": "Vendredi",
+          "start": "14:00",
+          "end": "15:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "16:00",
+          "end": "18:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Au moins 1 couloir de nage disponible.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "14:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Au moins 1 couloir de nage disponible.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Adultes",
+          "day": "Samedi",
+          "start": "15:00",
+          "end": "15:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "13:00",
+          "end": "14:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Au moins 1 couloir de nage disponible.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        },
+        {
+          "category": "Adultes",
+          "day": "Dimanche",
+          "start": "15:00",
+          "end": "15:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/bain-morgan"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Bain Émard",
+      "arrondissement": "Le Sud-Ouest",
+      "type": "Intérieure",
+      "address": "6071, rue Laurendeau, Montréal, QC H4E 3X6",
+      "lat": 45.457854199708,
+      "lon": -73.58887732029,
+      "period": "29 août au 20 déc. 2026",
+      "source": "https://montreal.ca/lieux/bain-emard",
+      "slots": [
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "19:00",
+          "end": "20:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "14:00",
+          "end": "17:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "18:30",
+          "end": "20:30"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "14:00",
+          "end": "17:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "17:00",
+          "end": "20:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "14:00",
+          "end": "17:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "17:00",
+          "end": "20:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "13:30",
+          "end": "16:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Lundi",
+          "start": "20:00",
+          "end": "22:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Mardi",
+          "start": "12:30",
+          "end": "14:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Mardi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Mercredi",
+          "start": "12:30",
+          "end": "14:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Mercredi",
+          "start": "20:00",
+          "end": "21:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Jeudi",
+          "start": "12:30",
+          "end": "14:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Vendredi",
+          "start": "20:00",
+          "end": "21:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Samedi",
+          "start": "16:00",
+          "end": "17:00"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "Fermé les jours fériés indiqués sur la fiche officielle, dont le 12 octobre 2026.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Centre aquatique de Rivière-des-Prairies",
+      "arrondissement": "Rivière-des-Prairies–Pointe-aux-Trembles",
+      "type": "Intérieure",
+      "address": "12515, boulevard Rodolphe-Forget, Montréal, QC H1E 6P6",
+      "lat": 45.651076762963,
+      "lon": -73.579088029757,
+      "period": "31 août au 20 déc. 2026",
+      "source": "https://montreal.ca/lieux/centre-aquatique-de-riviere-des-prairies",
+      "slots": [
+        {
+          "category": "Adultes",
+          "day": "Lundi",
+          "start": "06:30",
+          "end": "07:55"
+        },
+        {
+          "category": "Adultes",
+          "day": "Lundi",
+          "start": "11:30",
+          "end": "12:30"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mardi",
+          "start": "11:30",
+          "end": "12:30"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mardi",
+          "start": "20:00",
+          "end": "21:25"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "06:30",
+          "end": "07:55"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "11:30",
+          "end": "12:30"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "20:00",
+          "end": "21:25"
+        },
+        {
+          "category": "Adultes",
+          "day": "Jeudi",
+          "start": "11:30",
+          "end": "12:30"
+        },
+        {
+          "category": "Adultes",
+          "day": "Jeudi",
+          "start": "20:00",
+          "end": "21:25"
+        },
+        {
+          "category": "Adultes",
+          "day": "Vendredi",
+          "start": "06:30",
+          "end": "07:55"
+        },
+        {
+          "category": "Adultes",
+          "day": "Vendredi",
+          "start": "11:30",
+          "end": "12:30"
+        },
+        {
+          "category": "Adultes",
+          "day": "Vendredi",
+          "start": "20:00",
+          "end": "21:25"
+        },
+        {
+          "category": "Adultes",
+          "day": "Samedi",
+          "start": "16:00",
+          "end": "16:55"
+        },
+        {
+          "category": "Adultes",
+          "day": "Dimanche",
+          "start": "16:00",
+          "end": "16:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "15:30",
+          "end": "16:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "15:30",
+          "end": "16:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "19:00",
+          "end": "19:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "15:30",
+          "end": "16:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "19:00",
+          "end": "19:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "15:30",
+          "end": "16:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "19:00",
+          "end": "19:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "15:30",
+          "end": "16:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "19:00",
+          "end": "19:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "13:00",
+          "end": "15:55"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Complexe aquatique de Rosemont",
+      "arrondissement": "Rosemont–La Petite-Patrie",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "31 août au 23 déc. 2026",
+      "address": "6150, 9e Avenue, Montréal, QC H1Y 2K4",
+      "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont",
+      "comment": "Accès gratuit, sans réservation; bonnet de bain obligatoire. Fermé le lundi 12 octobre 2026 (Action de grâce).",
+      "lat": 45.55224,
+      "lon": -73.58329,
+      "slots": [
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "11:00",
+          "end": "11:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "16:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "19:00",
+          "end": "20:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "11:00",
+          "end": "11:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "16:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "19:00",
+          "end": "20:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "11:00",
+          "end": "11:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "16:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "19:00",
+          "end": "20:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "16:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "19:00",
+          "end": "20:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "16:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "19:00",
+          "end": "20:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "12:30",
+          "end": "13:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "15:30",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "12:30",
+          "end": "13:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "15:30",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Lundi",
+          "start": "07:00",
+          "end": "11:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Mercredi",
+          "start": "07:00",
+          "end": "11:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Vendredi",
+          "start": "07:00",
+          "end": "11:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Mardi",
+          "start": "10:00",
+          "end": "11:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Jeudi",
+          "start": "10:00",
+          "end": "11:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Samedi",
+          "start": "15:30",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Dimanche",
+          "start": "15:30",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "13:00",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mardi",
+          "start": "13:00",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mardi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mercredi",
+          "start": "13:00",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mercredi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Jeudi",
+          "start": "13:00",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Jeudi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "13:00",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Samedi",
+          "start": "14:00",
+          "end": "15:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Dimanche",
+          "start": "14:00",
+          "end": "15:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/complexe-aquatique-de-rosemont"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Piscine Annie-Pelletier",
+      "arrondissement": "Mercier–Hochelaga-Maisonneuve",
+      "type": "Intérieure",
+      "address": "8850, avenue Dubuisson, Montréal, QC H1L 2W6",
+      "lat": 45.602298840057,
+      "lon": -73.51544380188,
+      "period": "12 sept. 2026 au 18 juin 2027",
+      "source": "https://montreal.ca/lieux/piscine-annie-pelletier",
+      "slots": [
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Lundi",
+          "start": "07:00",
+          "end": "07:55"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Lundi",
+          "start": "20:00",
+          "end": "20:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Lundi",
+          "start": "13:30",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Mardi",
+          "start": "13:00",
+          "end": "13:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Mardi",
+          "start": "14:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Mardi",
+          "start": "20:30",
+          "end": "21:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Mercredi",
+          "start": "12:00",
+          "end": "13:25"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Mercredi",
+          "start": "13:30",
+          "end": "15:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Jeudi",
+          "start": "13:00",
+          "end": "13:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Jeudi",
+          "start": "14:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Jeudi",
+          "start": "20:30",
+          "end": "21:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Vendredi",
+          "start": "07:00",
+          "end": "07:55"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Vendredi",
+          "start": "12:00",
+          "end": "13:25"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Vendredi",
+          "start": "13:30",
+          "end": "15:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Vendredi",
+          "start": "20:30",
+          "end": "21:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Samedi",
+          "start": "08:00",
+          "end": "08:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "16:55"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Dimanche",
+          "start": "08:00",
+          "end": "08:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Dimanche",
+          "start": "13:00",
+          "end": "16:55"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine de l'Académie Beurling",
+      "arrondissement": "Verdun",
+      "type": "Intérieure",
+      "address": "6100, boulevard Champlain, Montréal, QC H4H 1A5",
+      "lat": 45.448186779684,
+      "lon": -73.586382865906,
+      "period": "21 sept. au 18 oct. 2026",
+      "source": "https://montreal.ca/lieux/piscine-de-lacademie-beurling",
+      "slots": [
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "17:25",
+          "end": "19:25"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Lundi",
+          "start": "20:35",
+          "end": "21:30"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "17:05",
+          "end": "18:25"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mardi",
+          "start": "20:40",
+          "end": "21:30"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "17:05",
+          "end": "18:25"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mercredi",
+          "start": "19:35",
+          "end": "20:45"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "18:05",
+          "end": "19:05"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Jeudi",
+          "start": "20:15",
+          "end": "21:30"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "18:10",
+          "end": "19:25"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Vendredi",
+          "start": "19:30",
+          "end": "21:30"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Samedi",
+          "start": "08:30",
+          "end": "09:25"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "18:15",
+          "end": "19:30"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Dimanche",
+          "start": "08:30",
+          "end": "09:25"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Dimanche",
+          "start": "17:10",
+          "end": "18:10"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "18:15",
+          "end": "19:30"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "Des fermetures ponctuelles sont annoncées sur la fiche officielle, notamment les 8, 12 et 15 octobre.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du centre Jean-Claude-Malépart",
+      "arrondissement": "Ville-Marie",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "31 août au 23 déc. 2026",
+      "address": "2633, rue Ontario Est, Montréal, QC H2K 1W8",
+      "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart",
+      "comment": "Bains libres gratuits; périodes adultes avec 4 corridors, périodes tous avec 3 corridors.",
+      "lat": 45.53403,
+      "lon": -73.55201,
+      "slots": [
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "07:00",
+          "end": "08:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "12:00",
+          "end": "13:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "19:30",
+          "end": "20:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mardi",
+          "start": "12:00",
+          "end": "13:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mercredi",
+          "start": "07:00",
+          "end": "08:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mercredi",
+          "start": "12:00",
+          "end": "13:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Jeudi",
+          "start": "12:00",
+          "end": "13:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "07:00",
+          "end": "08:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "12:00",
+          "end": "13:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "19:30",
+          "end": "20:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Dimanche",
+          "start": "16:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "13:30",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "19:30",
+          "end": "20:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "19:30",
+          "end": "20:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "19:30",
+          "end": "20:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "13:30",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "14:30",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "14:30",
+          "end": "15:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Famille",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "14:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Famille",
+          "day": "Dimanche",
+          "start": "13:00",
+          "end": "14:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        },
+        {
+          "category": "Enfants 10 ans et -",
+          "day": "Mercredi",
+          "start": "09:15",
+          "end": "11:10",
+          "period": "31 août au 23 déc. 2026",
+          "note": "ANNULÉ selon la fiche actuelle",
+          "source": "https://montreal.ca/lieux/piscine-du-centre-jean-claude-malepart"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Piscine du complexe sportif Claude-Robillard",
+      "arrondissement": "Ahuntsic-Cartierville",
+      "type": "Intérieure",
+      "address": "1000, avenue Émile-Journault, Montréal, QC H2M 2E7",
+      "lat": 45.55142388962415,
+      "lon": -73.63323879772682,
+      "period": "28 sept. au 25 oct. 2026",
+      "source": "https://montreal.ca/lieux/piscine-du-complexe-sportif-claude-robillard",
+      "slots": [
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Lundi",
+          "start": "09:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Mardi",
+          "start": "09:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Mercredi",
+          "start": "09:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Jeudi",
+          "start": "09:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Vendredi",
+          "start": "09:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Lundi",
+          "start": "20:00",
+          "end": "21:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Mardi",
+          "start": "20:00",
+          "end": "21:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Mercredi",
+          "start": "20:00",
+          "end": "21:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Jeudi",
+          "start": "20:00",
+          "end": "21:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Vendredi",
+          "start": "20:00",
+          "end": "21:55"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Samedi",
+          "start": "12:00",
+          "end": "16:25"
+        },
+        {
+          "category": "Nage en couloir / bain libre",
+          "day": "Dimanche",
+          "start": "12:00",
+          "end": "16:25"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "Compétitions et événements peuvent annuler des périodes; consulter la fiche officielle.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du complexe sportif du Collège Sainte-Anne",
+      "arrondissement": "Lachine",
+      "type": "Intérieure",
+      "address": "50, 12e Avenue, Montréal, QC H8S 2M8",
+      "lat": 45.4322365646,
+      "lon": -73.674253830427,
+      "period": "13 sept. au 23 déc. 2026",
+      "source": "https://montreal.ca/lieux/piscine-du-complexe-sportif-du-college-sainte-anne",
+      "slots": [
+        {
+          "category": "Nage en couloir 18+",
+          "day": "Mardi",
+          "start": "20:30",
+          "end": "21:45"
+        },
+        {
+          "category": "Nage en couloir 18+",
+          "day": "Mercredi",
+          "start": "20:30",
+          "end": "21:45"
+        },
+        {
+          "category": "Nage en couloir 18+",
+          "day": "Jeudi",
+          "start": "20:30",
+          "end": "21:45"
+        },
+        {
+          "category": "Nage en couloir 18+",
+          "day": "Vendredi",
+          "start": "18:30",
+          "end": "21:45"
+        },
+        {
+          "category": "Nage en couloir 18+",
+          "day": "Dimanche",
+          "start": "18:30",
+          "end": "20:45"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "Bains libres gratuits. Certaines dates sont annulées; consulter la fiche officielle.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du Complexe sportif Marie-Victorin",
+      "arrondissement": "Rivière-des-Prairies–Pointe-aux-Trembles",
+      "type": "Intérieure",
+      "address": "7000, rue Marie-Victorin, Montréal, QC H1G 6P4",
+      "lat": 45.619547954978,
+      "lon": -73.608935336737,
+      "period": "8 sept. au 11 oct. 2026",
+      "source": "https://montreal.ca/lieux/piscine-du-complexe-sportif-marie-victorin",
+      "slots": [
+        {
+          "category": "Adultes",
+          "day": "Mardi",
+          "start": "18:30",
+          "end": "20:30"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Jeudi",
+          "start": "12:00",
+          "end": "13:15"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "Horaire d’automne publié jusqu’au 11 octobre 2026; vérifier la source après cette date.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du cégep du Vieux Montréal",
+      "arrondissement": "Ville-Marie",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "18 août au 12 déc. 2026",
+      "address": "255, rue Ontario Est, Montréal, QC H2X 1X6",
+      "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal",
+      "comment": "Bain libre gratuit.",
+      "lat": 45.51448,
+      "lon": -73.56638,
+      "slots": [
+        {
+          "category": "Adultes",
+          "day": "Mardi",
+          "start": "17:30",
+          "end": "21:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "17:30",
+          "end": "21:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Adultes",
+          "day": "Jeudi",
+          "start": "17:30",
+          "end": "21:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Adultes",
+          "day": "Vendredi",
+          "start": "17:30",
+          "end": "21:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Adultes",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "16:30",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "19:00",
+          "end": "20:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "19:00",
+          "end": "20:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "19:00",
+          "end": "20:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "19:00",
+          "end": "20:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "15:00",
+          "period": "18 août au 12 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-du-cegep-du-vieux-montreal"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Piscine intérieure Henri-Bourassa",
+      "arrondissement": "Montréal-Nord",
+      "type": "Intérieure",
+      "address": "12005, avenue Laurier, Montréal, QC H1G 5X4",
+      "lat": 45.614010721791,
+      "lon": -73.622956627306,
+      "period": "12 sept. au 18 déc. 2026",
+      "source": "https://montreal.ca/lieux/piscine-interieure-henri-bourassa",
+      "slots": [
+        {
+          "category": "Adultes",
+          "day": "Lundi",
+          "start": "20:30",
+          "end": "22:30"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "20:30",
+          "end": "22:30"
+        },
+        {
+          "category": "Adultes",
+          "day": "Vendredi",
+          "start": "20:30",
+          "end": "22:30"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "Natation libre gratuite pour tous; les périodes familiales ne sont pas utilisées pour la recommandation adulte.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Joseph-Charbonneau",
+      "arrondissement": "Villeray–Saint-Michel–Parc-Extension",
+      "type": "Intérieure",
+      "address": "8200, rue Rousselot, Montréal, QC H2E 1Z6",
+      "lat": 45.55121,
+      "lon": -73.622632,
+      "period": "24 août au 18 déc. 2026",
+      "source": "https://montreal.ca/lieux/piscine-joseph-charbonneau",
+      "slots": [
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "16:00",
+          "end": "17:55"
+        },
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Mardi",
+          "start": "18:00",
+          "end": "18:55"
+        },
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Mercredi",
+          "start": "14:00",
+          "end": "14:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "15:00",
+          "end": "17:25"
+        },
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Mercredi",
+          "start": "17:30",
+          "end": "18:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "16:00",
+          "end": "17:55"
+        },
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Jeudi",
+          "start": "18:00",
+          "end": "18:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "14:30",
+          "end": "16:55"
+        },
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Samedi",
+          "start": "17:00",
+          "end": "17:55"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Lévesque",
+      "arrondissement": "Le Plateau-Mont-Royal",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "16 sept. au 23 déc. 2026",
+      "address": "955, rue Marie-Anne Est, Montréal, QC H2J 4G2",
+      "source": "https://montreal.ca/lieux/piscine-levesque",
+      "comment": "Créneaux de baignade libre gratuits; 3 couloirs aux périodes « nage en couloir ».",
+      "lat": 45.52623,
+      "lon": -73.57793,
+      "slots": [
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "13:00",
+          "end": "15:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mardi",
+          "start": "13:00",
+          "end": "15:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mercredi",
+          "start": "13:00",
+          "end": "15:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Jeudi",
+          "start": "13:00",
+          "end": "15:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "13:00",
+          "end": "15:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Dimanche",
+          "start": "18:05",
+          "end": "20:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Lundi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Lundi",
+          "start": "18:05",
+          "end": "19:25",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mardi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mardi",
+          "start": "20:15",
+          "end": "21:30",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mercredi",
+          "start": "12:00",
+          "end": "13:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mercredi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mercredi",
+          "start": "18:05",
+          "end": "19:25",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Jeudi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Jeudi",
+          "start": "20:15",
+          "end": "21:30",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Vendredi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Samedi",
+          "start": "13:30",
+          "end": "14:30",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Dimanche",
+          "start": "20:00",
+          "end": "21:30",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "16:30",
+          "end": "18:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "16:30",
+          "end": "18:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "14:30",
+          "end": "16:30",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "13:30",
+          "end": "15:00",
+          "period": "16 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-levesque"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Piscine Pierre-Lorange",
+      "arrondissement": "Mercier–Hochelaga-Maisonneuve",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "12 sept. 2026 au 18 juin 2027",
+      "address": "1870, rue Davidson, Montréal, QC H1W 2Y6",
+      "source": "https://montreal.ca/lieux/piscine-pierre-lorange",
+      "comment": "Accès gratuit; 2, 3 ou 6 couloirs de nage selon le créneau. Glissade fermée pour une durée indéterminée; tremplins ouverts. Horaire de nage en longueur indiqué hors semaine de relâche.",
+      "lat": 45.54246,
+      "lon": -73.54533,
+      "slots": [
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "10:00",
+          "end": "11:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Lundi",
+          "start": "12:00",
+          "end": "12:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mardi",
+          "start": "13:00",
+          "end": "13:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "14:00",
+          "end": "15:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "18:30",
+          "end": "19:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mardi",
+          "start": "19:30",
+          "end": "20:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mardi",
+          "start": "20:30",
+          "end": "21:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "6 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "10:00",
+          "end": "11:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "12:00",
+          "end": "12:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "18:30",
+          "end": "19:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "19:30",
+          "end": "20:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "20:30",
+          "end": "21:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "6 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Jeudi",
+          "start": "13:00",
+          "end": "13:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "14:00",
+          "end": "15:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "18:30",
+          "end": "19:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Jeudi",
+          "start": "19:30",
+          "end": "20:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Jeudi",
+          "start": "20:30",
+          "end": "21:25",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "6 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "10:00",
+          "end": "11:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Vendredi",
+          "start": "12:00",
+          "end": "12:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "09:00",
+          "end": "10:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Baignade libre; ce créneau n’est pas listé dans l’horaire de nage en longueur.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "11:00",
+          "end": "11:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "2 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Samedi",
+          "start": "12:00",
+          "end": "12:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "13:00",
+          "end": "14:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "Baignade libre; ce créneau n’est pas listé dans l’horaire de nage en longueur.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Dimanche",
+          "start": "15:00",
+          "end": "15:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "3 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        },
+        {
+          "category": "Adultes",
+          "day": "Dimanche",
+          "start": "16:00",
+          "end": "16:55",
+          "period": "12 sept. 2026 au 18 juin 2027",
+          "note": "6 couloirs de nage disponibles.",
+          "source": "https://montreal.ca/lieux/piscine-pierre-lorange"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Piscine Père-Marquette",
+      "arrondissement": "Rosemont–La Petite-Patrie",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "31 août au 23 déc. 2026",
+      "address": "1600, rue de Drucourt, Montréal, QC H2G 1N6",
+      "source": "https://montreal.ca/lieux/piscine-pere-marquette",
+      "comment": "Baignades libres gratuites; horaire soumis à changement pendant les Fêtes et la relâche.",
+      "lat": 45.54106,
+      "lon": -73.59563,
+      "slots": [
+        {
+          "category": "Famille",
+          "day": "Lundi",
+          "start": "19:30",
+          "end": "20:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Famille",
+          "day": "Mercredi",
+          "start": "19:30",
+          "end": "20:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Famille",
+          "day": "Vendredi",
+          "start": "19:30",
+          "end": "20:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "13:30",
+          "end": "15:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "13:30",
+          "end": "15:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mardi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mercredi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mercredi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Jeudi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Jeudi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "20:30",
+          "end": "21:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Samedi",
+          "start": "15:30",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Dimanche",
+          "start": "15:30",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Lundi",
+          "start": "10:00",
+          "end": "12:00",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Lundi",
+          "start": "13:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Mardi",
+          "start": "10:00",
+          "end": "12:00",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Mardi",
+          "start": "13:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Mercredi",
+          "start": "10:00",
+          "end": "12:00",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Mercredi",
+          "start": "13:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Vendredi",
+          "start": "10:00",
+          "end": "12:00",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Vendredi",
+          "start": "13:00",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Jeudi",
+          "start": "10:00",
+          "end": "12:00",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Jeudi",
+          "start": "13:00",
+          "end": "14:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Samedi",
+          "start": "13:30",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Enfants 9 ans et -",
+          "day": "Dimanche",
+          "start": "13:30",
+          "end": "16:55",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Jeudi",
+          "start": "19:30",
+          "end": "20:30",
+          "period": "31 août au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-pere-marquette"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Piscine René-Goupil",
+      "arrondissement": "Villeray–Saint-Michel–Parc-Extension",
+      "type": "Intérieure",
+      "address": "4250, rue du Parc-René-Goupil, Montréal, QC H1Z 1X7",
+      "lat": 45.577962003542,
+      "lon": -73.611402511597,
+      "period": "24 août au 18 déc. 2026",
+      "source": "https://montreal.ca/lieux/piscine-rene-goupil",
+      "slots": [
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Mercredi",
+          "start": "16:00",
+          "end": "16:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "17:00",
+          "end": "19:55"
+        },
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Mercredi",
+          "start": "20:00",
+          "end": "20:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "16:00",
+          "end": "19:25"
+        },
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Vendredi",
+          "start": "19:30",
+          "end": "20:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "15:30",
+          "end": "17:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "14:30",
+          "end": "17:55"
+        },
+        {
+          "category": "Nage en longueur adultes",
+          "day": "Dimanche",
+          "start": "18:00",
+          "end": "19:25"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Saint-Charles",
+      "arrondissement": "Le Sud-Ouest",
+      "type": "Intérieure",
+      "address": "1055, rue d'Hibernia, Montréal, QC H3K 2V3",
+      "lat": 45.479387915098,
+      "lon": -73.563361929067,
+      "period": "26 sept. au 20 déc. 2026",
+      "source": "https://montreal.ca/lieux/piscine-saint-charles",
+      "slots": [
+        {
+          "category": "Adultes 18+",
+          "day": "Lundi",
+          "start": "12:00",
+          "end": "14:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "14:00",
+          "end": "16:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "19:00",
+          "end": "20:30"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Lundi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "19:00",
+          "end": "20:30"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Mardi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Mercredi",
+          "start": "12:00",
+          "end": "14:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "14:00",
+          "end": "16:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "19:00",
+          "end": "20:30"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Jeudi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Vendredi",
+          "start": "12:00",
+          "end": "14:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "14:00",
+          "end": "16:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "19:00",
+          "end": "20:30"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Vendredi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "16:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Samedi",
+          "start": "16:00",
+          "end": "17:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "13:00",
+          "end": "16:00"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Saint-Henri",
+      "arrondissement": "Le Sud-Ouest",
+      "type": "Intérieure",
+      "address": "4055, rue Saint-Jacques, Montréal, QC H4C 1J3",
+      "lat": 45.477763335319,
+      "lon": -73.58574450016,
+      "period": "8 sept. au 20 déc. 2026",
+      "source": "https://montreal.ca/lieux/piscine-saint-henri",
+      "slots": [
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "17:00",
+          "end": "20:30"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Mardi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "19:15",
+          "end": "20:30"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Mercredi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "19:15",
+          "end": "20:30"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Jeudi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "17:00",
+          "end": "20:30"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Vendredi",
+          "start": "20:30",
+          "end": "22:00"
+        },
+        {
+          "category": "Adultes 18+",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "14:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "14:00",
+          "end": "17:00"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Saint-Roch",
+      "arrondissement": "Villeray–Saint-Michel–Parc-Extension",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "14 sept. au 19 déc. 2026",
+      "address": "400, avenue Ball, Montréal, QC H3N 1H6",
+      "source": "https://montreal.ca/lieux/piscine-saint-roch",
+      "comment": "Bain libre; 2 corridors en semaine et 1 la fin de semaine pour les périodes « tous ».",
+      "lat": 45.53198,
+      "lon": -73.63075,
+      "slots": [
+        {
+          "category": "Toutes et tous",
+          "day": "Lundi",
+          "start": "18:30",
+          "end": "19:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "15:00",
+          "end": "17:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "15:00",
+          "end": "17:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "17:00",
+          "end": "19:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "15:00",
+          "end": "16:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "14:00",
+          "end": "15:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Adultes",
+          "day": "Lundi",
+          "start": "20:00",
+          "end": "21:25",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Adultes",
+          "day": "Mercredi",
+          "start": "07:00",
+          "end": "10:00",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Adultes",
+          "day": "Vendredi",
+          "start": "20:00",
+          "end": "20:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Adultes",
+          "day": "Dimanche",
+          "start": "16:00",
+          "end": "16:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        },
+        {
+          "category": "Filles et femmes",
+          "day": "Samedi",
+          "start": "14:00",
+          "end": "14:55",
+          "period": "14 sept. au 19 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-saint-roch"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Piscine Schubert",
+      "arrondissement": "Le Plateau-Mont-Royal",
+      "status": "Ouverte selon l’horaire publié",
+      "period": "26 sept. au 23 déc. 2026",
+      "address": "3950, boul. Saint-Laurent, Montréal, QC H2W 1Y3",
+      "source": "https://montreal.ca/lieux/piscine-schubert",
+      "comment": "Créneaux de baignade libre gratuits; 3 couloirs aux périodes « nage en couloir ».",
+      "lat": 45.51646,
+      "lon": -73.57878,
+      "slots": [
+        {
+          "category": "Adultes 16+",
+          "day": "Lundi",
+          "start": "14:00",
+          "end": "15:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Mercredi",
+          "start": "14:00",
+          "end": "15:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Jeudi",
+          "start": "14:00",
+          "end": "15:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Adultes 16+",
+          "day": "Vendredi",
+          "start": "14:00",
+          "end": "15:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Lundi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Lundi",
+          "start": "20:00",
+          "end": "21:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mercredi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Mercredi",
+          "start": "20:00",
+          "end": "21:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Jeudi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Jeudi",
+          "start": "19:00",
+          "end": "21:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Vendredi",
+          "start": "15:00",
+          "end": "16:25",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Vendredi",
+          "start": "19:00",
+          "end": "21:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Samedi",
+          "start": "16:00",
+          "end": "17:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Nage en couloir 16+",
+          "day": "Dimanche",
+          "start": "12:00",
+          "end": "13:00",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "16:30",
+          "end": "18:30",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "16:30",
+          "end": "18:30",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "14:00",
+          "end": "15:55",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "10:00",
+          "end": "11:55",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        },
+        {
+          "category": "Besoins particuliers",
+          "day": "Dimanche",
+          "start": "13:30",
+          "end": "14:45",
+          "period": "26 sept. au 23 déc. 2026",
+          "note": "",
+          "source": "https://montreal.ca/lieux/piscine-schubert"
+        }
+      ],
+      "type": "Intérieure",
+      "scheduleStatus": "live",
+      "freeStatus": "Gratuit",
+      "note": ""
+    },
+    {
+      "name": "Piscine Sophie-Barat",
+      "arrondissement": "Ahuntsic-Cartierville",
+      "type": "Intérieure",
+      "address": "10851, avenue Saint-Charles, Montréal, QC H2C 3H7",
+      "lat": 45.56160359559911,
+      "lon": -73.66797539759733,
+      "period": "1 sept. au 18 déc. 2026",
+      "source": "https://montreal.ca/lieux/piscine-sophie-barat",
+      "slots": [
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "19:30",
+          "end": "21:00"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Mardi",
+          "start": "21:00",
+          "end": "21:55"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Mercredi",
+          "start": "16:45",
+          "end": "18:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mercredi",
+          "start": "18:00",
+          "end": "19:30"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Mercredi",
+          "start": "19:30",
+          "end": "20:25"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "19:30",
+          "end": "21:00"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Jeudi",
+          "start": "21:00",
+          "end": "21:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "19:30",
+          "end": "21:00"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Vendredi",
+          "start": "21:00",
+          "end": "21:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Samedi",
+          "start": "15:00",
+          "end": "17:00"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Samedi",
+          "start": "17:00",
+          "end": "17:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "15:00",
+          "end": "16:30"
+        },
+        {
+          "category": "Nage en couloir",
+          "day": "Dimanche",
+          "start": "16:30",
+          "end": "17:25"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Édouard-Montpetit",
+      "arrondissement": "Mercier–Hochelaga-Maisonneuve",
+      "type": "Intérieure",
+      "address": "6100, avenue Pierre-De Coubertin, Montréal, QC H1N 1S4",
+      "lat": 45.575585,
+      "lon": -73.537389,
+      "period": "12 sept. 2026 au 18 juin 2027",
+      "source": "https://montreal.ca/lieux/piscine-edouard-montpetit",
+      "slots": [
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Lundi",
+          "start": "18:30",
+          "end": "20:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Lundi",
+          "start": "20:30",
+          "end": "21:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Mardi",
+          "start": "17:00",
+          "end": "17:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Mardi",
+          "start": "18:00",
+          "end": "19:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Mercredi",
+          "start": "18:30",
+          "end": "20:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Mercredi",
+          "start": "20:30",
+          "end": "21:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Jeudi",
+          "start": "17:00",
+          "end": "17:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Jeudi",
+          "start": "18:00",
+          "end": "19:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Vendredi",
+          "start": "18:30",
+          "end": "20:25"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Vendredi",
+          "start": "20:30",
+          "end": "21:25"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Samedi",
+          "start": "13:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Samedi",
+          "start": "16:00",
+          "end": "16:55"
+        },
+        {
+          "category": "Nage en couloir / toutes et tous",
+          "day": "Dimanche",
+          "start": "09:00",
+          "end": "11:55"
+        },
+        {
+          "category": "Nage en couloir adultes",
+          "day": "Dimanche",
+          "start": "12:00",
+          "end": "12:55"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "YMCA Cartierville – piscine intérieure gratuite",
+      "arrondissement": "Ahuntsic-Cartierville",
+      "type": "Intérieure",
+      "address": "11885, boulevard Laurentien, Montréal, QC H4J 2R5",
+      "lat": 45.525394,
+      "lon": -73.711066,
+      "period": "7 sept. au 20 déc. 2026",
+      "source": "https://montreal.ca/lieux/ymca-cartierville",
+      "slots": [
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Lundi",
+          "start": "13:00",
+          "end": "14:00"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Lundi",
+          "start": "15:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Mardi",
+          "start": "06:30",
+          "end": "09:25"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Mardi",
+          "start": "12:00",
+          "end": "12:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Mardi",
+          "start": "16:00",
+          "end": "17:55"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Mardi",
+          "start": "20:00",
+          "end": "20:55"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Mercredi",
+          "start": "13:00",
+          "end": "14:00"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Mercredi",
+          "start": "15:00",
+          "end": "15:55"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Jeudi",
+          "start": "06:30",
+          "end": "09:25"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Jeudi",
+          "start": "12:00",
+          "end": "12:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Jeudi",
+          "start": "16:00",
+          "end": "17:55"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Jeudi",
+          "start": "20:00",
+          "end": "20:55"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Vendredi",
+          "start": "13:00",
+          "end": "14:00"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Vendredi",
+          "start": "19:40",
+          "end": "21:10"
+        },
+        {
+          "category": "Nage en longueur 12+",
+          "day": "Samedi",
+          "start": "07:45",
+          "end": "08:55"
+        },
+        {
+          "category": "Toutes et tous",
+          "day": "Dimanche",
+          "start": "14:15",
+          "end": "15:45"
+        }
+      ],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "live",
+      "note": "Accès gratuit pour les résident(e)s de Montréal; une preuve d’adresse peut être demandée.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du Centre sportif Côte-des-Neiges",
+      "arrondissement": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+      "type": "Intérieure",
+      "address": "4880, avenue Van Horne, Montréal, QC H3W 1J3",
+      "lat": 45.492818895307,
+      "lon": -73.63831624118,
+      "period": "Ouverte à l’année",
+      "source": "https://montreal.ca/lieux/piscine-du-centre-sportif-cote-des-neiges",
+      "slots": [],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "external",
+      "note": "Gratuite et ouverte à l’année. Horaire sur Loisirs Sportifs CDN-NDG.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du centre sportif de la Petite-Bourgogne",
+      "arrondissement": "Le Sud-Ouest",
+      "type": "Intérieure",
+      "address": "1825, rue Notre-Dame Ouest, Montréal, QC H3J 2Y4",
+      "lat": 45.488222970601,
+      "lon": -73.569152355194,
+      "period": "Automne 2026",
+      "source": "https://montreal.ca/lieux/piscine-du-centre-sportif-de-la-petite-bourgogne",
+      "slots": [],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "external",
+      "note": "Horaire publié par le gestionnaire du centre sportif.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du Centre sportif de Notre-Dame-de-Grâce",
+      "arrondissement": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+      "type": "Intérieure",
+      "address": "6445, avenue de Monkland, Montréal, QC H4B 1H2",
+      "lat": 45.46651,
+      "lon": -73.632712,
+      "period": "Ouverte à l’année",
+      "source": "https://montreal.ca/lieux/piscine-du-centre-sportif-de-notre-dame-de-grace",
+      "slots": [],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "external",
+      "note": "Gratuite et ouverte à l’année. Horaire sur Loisirs Sportifs CDN-NDG.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Quintal",
+      "arrondissement": "Ville-Marie",
+      "type": "Intérieure",
+      "address": "1550, rue Dufresne, Montréal, QC H2K 3J5",
+      "lat": 45.528937240499,
+      "lon": -73.548730015755,
+      "period": "Automne 2026 – vérifier la source",
+      "source": "https://montreal.ca/lieux/piscine-quintal",
+      "slots": [],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "external",
+      "note": "La fiche municipale publie les bains libres et précise les corridors; l’horaire exact d’automne peut évoluer.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Villeray",
+      "arrondissement": "Villeray–Saint-Michel–Parc-Extension",
+      "type": "Intérieure",
+      "address": "7355, avenue Christophe-Colomb, Montréal, QC H2R 2S5",
+      "lat": 45.544008708807,
+      "lon": -73.614610433578,
+      "period": "Automne 2026",
+      "source": "https://montreal.ca/lieux/piscine-villeray",
+      "slots": [],
+      "status": "Ouverte selon l’horaire publié",
+      "scheduleStatus": "external",
+      "note": "Bains libres gérés par le Patro Villeray; consulter l’horaire externe.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine communautaire Notre-Dame-de-Grâce",
+      "arrondissement": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+      "type": "Intérieure",
+      "address": "3760, boulevard Décarie, Montréal, QC",
+      "lat": 45.476338181712,
+      "lon": -73.613939146181,
+      "period": "Fermée – vérifier la fiche",
+      "source": "https://montreal.ca/lieux/piscine-communautaire-notre-dame-de-grace",
+      "slots": [],
+      "status": "Fermée temporairement",
+      "scheduleStatus": "closed",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du Centre du Plateau",
+      "arrondissement": "Le Plateau-Mont-Royal",
+      "type": "Intérieure",
+      "address": "2275, boulevard Saint-Joseph Est, Montréal, QC H2H 1G4",
+      "lat": 45.539769,
+      "lon": -73.575971,
+      "period": "Fermée pour une durée indéterminée",
+      "source": "https://montreal.ca/lieux/piscine-du-centre-du-plateau",
+      "slots": [],
+      "status": "Fermée temporairement",
+      "scheduleStatus": "closed",
+      "note": "Baignade libre gratuite lorsqu’elle est ouverte.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du Centre Gadbois",
+      "arrondissement": "Le Sud-Ouest",
+      "type": "Intérieure",
+      "address": "5485, chemin de la Côte-Saint-Paul, Montréal, QC",
+      "lat": 45.466285967574,
+      "lon": -73.595298528671,
+      "period": "Fermée – vérifier la fiche",
+      "source": "https://montreal.ca/lieux/piscine-du-centre-gadbois",
+      "slots": [],
+      "status": "Fermée temporairement",
+      "scheduleStatus": "closed",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine intérieure Calixa-Lavallée",
+      "arrondissement": "Montréal-Nord",
+      "type": "Intérieure",
+      "address": "11345, avenue Pelletier, Montréal, QC",
+      "lat": 45.597588460599,
+      "lon": -73.637763261795,
+      "period": "Fermeture / travaux – vérifier la fiche",
+      "source": "https://montreal.ca/lieux/piscine-interieure-calixa-lavallee",
+      "slots": [],
+      "status": "Fermée / travaux",
+      "scheduleStatus": "closed",
+      "note": "",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Complexe aquatique de Pierrefonds-Roxboro",
+      "arrondissement": "Pierrefonds-Roxboro",
+      "type": "Intérieure",
+      "address": "13705, boulevard Pierrefonds, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Ouverture prévue en novembre 2026",
+      "source": "https://montreal.ca/lieux/complexe-aquatique-de-pierrefonds-roxboro",
+      "slots": [],
+      "status": "Ouverture à venir",
+      "scheduleStatus": "future",
+      "note": "Accès aux bains annoncé gratuit pour les citoyennes et citoyens de Montréal.",
+      "freeStatus": "Gratuit pour les Montréalais"
+    },
+    {
+      "name": "Piscine - Natatorium de Verdun",
+      "arrondissement": "Verdun",
+      "type": "Extérieure",
+      "address": "6500, boulevard LaSalle, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Arthur-Therrien",
+      "arrondissement": "Verdun",
+      "type": "Extérieure",
+      "address": "3910, boulevard Gaétan-Laberge, Montréal, QC",
+      "lat": 45.46399,
+      "lon": -73.56122,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Bourbonnière",
+      "arrondissement": "Saint-Laurent",
+      "type": "Extérieure",
+      "address": "2800, rue Cazeneuve, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Chamberland",
+      "arrondissement": "Saint-Laurent",
+      "type": "Extérieure",
+      "address": "800, rue Dorais, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Dan-Hanganu (Elgar)",
+      "arrondissement": "Verdun",
+      "type": "Extérieure",
+      "address": "260, rue Elgar, Montréal, QC",
+      "lat": 45.45727,
+      "lon": -73.54782,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc de la Confédération",
+      "arrondissement": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+      "type": "Extérieure",
+      "address": "6265, avenue Biermans, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc de la Fontaine",
+      "arrondissement": "Verdun",
+      "type": "Extérieure",
+      "address": "550, place de la Fontaine, Montréal, QC",
+      "lat": 45.46346,
+      "lon": -73.54467,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Decelles",
+      "arrondissement": "Saint-Laurent",
+      "type": "Extérieure",
+      "address": "845, rue Roy, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Don-Bosco",
+      "arrondissement": "Rivière-des-Prairies–Pointe-aux-Trembles",
+      "type": "Extérieure",
+      "address": "12600, avenue Rita-Lévi-Montalcini, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc du Pélican",
+      "arrondissement": "Rosemont–La Petite-Patrie",
+      "type": "Extérieure",
+      "address": "2590, rue Masson, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Eugène-Dostie",
+      "arrondissement": "L'Île-Bizard–Sainte-Geneviève",
+      "type": "Extérieure",
+      "address": "montée de l'Église, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Ferland",
+      "arrondissement": "Saint-Léonard",
+      "type": "Extérieure",
+      "address": "6020, boulevard Lavoisier, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc François-Perrault",
+      "arrondissement": "Villeray–Saint-Michel–Parc-Extension",
+      "type": "Extérieure",
+      "address": "7525, rue François-Perrault, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Gabriel-Lalemant",
+      "arrondissement": "Ahuntsic-Cartierville",
+      "type": "Extérieure",
+      "address": "2244, rue Sauvé Est, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Giuseppe-Garibaldi",
+      "arrondissement": "Saint-Léonard",
+      "type": "Extérieure",
+      "address": "7135, rue Liénart, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Hans-Selye",
+      "arrondissement": "Rivière-des-Prairies–Pointe-aux-Trembles",
+      "type": "Extérieure",
+      "address": "7521, avenue André-Ampère, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Hartenstein",
+      "arrondissement": "Saint-Laurent",
+      "type": "Extérieure",
+      "address": "1505, rue Cardinal, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Hébert",
+      "arrondissement": "Saint-Léonard",
+      "type": "Extérieure",
+      "address": "7555, boulevard Provencher, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Jarry",
+      "arrondissement": "Villeray–Saint-Michel–Parc-Extension",
+      "type": "Extérieure",
+      "address": "205, rue Gary-Carter, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Joseph-Paré",
+      "arrondissement": "Rosemont–La Petite-Patrie",
+      "type": "Extérieure",
+      "address": "43e Avenue, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Kirkland",
+      "arrondissement": "Lachine",
+      "type": "Extérieure",
+      "address": "123, rue Léo-Pétrin, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Ladauversière",
+      "arrondissement": "Saint-Léonard",
+      "type": "Extérieure",
+      "address": "7540, boulevard Lacordaire, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc LaSalle",
+      "arrondissement": "Lachine",
+      "type": "Extérieure",
+      "address": "475, 10e Avenue, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Marcelin-Wilson",
+      "arrondissement": "Ahuntsic-Cartierville",
+      "type": "Extérieure",
+      "address": "1655, rue Dudemaine, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Maria-Goretti",
+      "arrondissement": "Rivière-des-Prairies–Pointe-aux-Trembles",
+      "type": "Extérieure",
+      "address": "488, 85e Avenue, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Marlborough",
+      "arrondissement": "Saint-Laurent",
+      "type": "Extérieure",
+      "address": "2305, rue Beauzèle, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Martin-Luther-King",
+      "arrondissement": "Côte-des-Neiges–Notre-Dame-de-Grâce",
+      "type": "Extérieure",
+      "address": "6262, chemin Hudson, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Michel-Ménard",
+      "arrondissement": "Lachine",
+      "type": "Extérieure",
+      "address": "1995, croissant Roy, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Noël-Nord",
+      "arrondissement": "Saint-Laurent",
+      "type": "Extérieure",
+      "address": "2900, rue Baker, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Painter",
+      "arrondissement": "Saint-Laurent",
+      "type": "Extérieure",
+      "address": "260, rue Marcotte, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Pie-XII",
+      "arrondissement": "Saint-Léonard",
+      "type": "Extérieure",
+      "address": "5250, boulevard Lavoisier, Montréal, QC",
+      "lat": 45.5892,
+      "lon": -73.60663,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Richelieu",
+      "arrondissement": "Rivière-des-Prairies–Pointe-aux-Trembles",
+      "type": "Extérieure",
+      "address": "13600, rue Forsyth, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Robert-Sauvé",
+      "arrondissement": "L'Île-Bizard–Sainte-Geneviève",
+      "type": "Extérieure",
+      "address": "15742, rue de la Caserne, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Saint-Georges",
+      "arrondissement": "Rivière-des-Prairies–Pointe-aux-Trembles",
+      "type": "Extérieure",
+      "address": "13050, rue Prince-Albert, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Saint-Laurent - Arr. Saint-Laurent",
+      "arrondissement": "Saint-Laurent",
+      "type": "Extérieure",
+      "address": "845, rue Poirier, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine du parc Sainte-Lucie",
+      "arrondissement": "Villeray–Saint-Michel–Parc-Extension",
+      "type": "Extérieure",
+      "address": "9093, 16e Avenue, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine et pataugeoire du parc Baldwin",
+      "arrondissement": "Le Plateau-Mont-Royal",
+      "type": "Extérieure",
+      "address": "4355, rue Fullum, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine et pataugeoire du parc Sir-Wilfrid-Laurier",
+      "arrondissement": "Le Plateau-Mont-Royal",
+      "type": "Extérieure",
+      "address": "5200, rue De Brébeuf, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine extérieure du parc Charleroi",
+      "arrondissement": "Montréal-Nord",
+      "type": "Extérieure",
+      "address": "10985, avenue Alfred, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine extérieure du parc Ignace-Bourget",
+      "arrondissement": "Le Sud-Ouest",
+      "type": "Extérieure",
+      "address": "5925, avenue de Montmagny, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine extérieure du parc Ottawa",
+      "arrondissement": "Montréal-Nord",
+      "type": "Extérieure",
+      "address": "10400, avenue de Belleville, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine extérieure du parc Primeau",
+      "arrondissement": "Montréal-Nord",
+      "type": "Extérieure",
+      "address": "10958, avenue Pelletier, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine extérieure du parc Saint-Laurent",
+      "arrondissement": "Montréal-Nord",
+      "type": "Extérieure",
+      "address": "11614, avenue Salk, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine extérieure du square Sir-George-Étienne-Cartier",
+      "arrondissement": "Le Sud-Ouest",
+      "type": "Extérieure",
+      "address": "4550, rue Sainte-Émilie, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Maisonneuve du parc Francine-Léger",
+      "arrondissement": "Mercier–Hochelaga-Maisonneuve",
+      "type": "Extérieure",
+      "address": "4350, rue de Rouen, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscine Paul-Émile Sauvageau du parc L.-O.-Taillon",
+      "arrondissement": "Mercier–Hochelaga-Maisonneuve",
+      "type": "Extérieure",
+      "address": "9200, rue Notre-Dame Est, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    },
+    {
+      "name": "Piscinette",
+      "arrondissement": "Ville-Marie",
+      "type": "Extérieure",
+      "address": "2560, boulevard de Maisonneuve Est, Montréal, QC",
+      "lat": null,
+      "lon": null,
+      "period": "Saison estivale 2026 terminée",
+      "source": "https://montreal.ca/lieux?mtl_content.lieux.available_activities.code=ACT0&mtl_content.lieux.installation.code=PIEX",
+      "slots": [],
+      "status": "Hors saison",
+      "scheduleStatus": "seasonal",
+      "note": "Installation extérieure municipale; prochaine saison à vérifier sur la fiche de la Ville.",
+      "freeStatus": "Gratuit"
+    }
+  ]
+}
